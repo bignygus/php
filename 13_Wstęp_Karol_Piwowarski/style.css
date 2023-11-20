@@ -1,0 +1,49 @@
+html,
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background: rgb(119, 2, 2);
+    color: rgb(250, 164, 143);
+}
+
+.clr{
+    clear: both;
+    height: 0px;
+}
+
+p {
+    margin: 2px;
+}
+
+h1 {
+    color: rgb(241, 187, 49);
+}
+
+.left {
+    float: left;
+    width: 50%;
+}
+
+.right {
+    background-image: url("candy.png");
+    float: right;
+    width: 30%;
+    height: 500px;
+    background-size: cover;
+}
+
+.rabat {
+    display: inline-block;
+    position: relative;
+    margin: 33%;
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(119, 2, 2);
+    font-family: "Courier New";
+    background: rgb(241, 187, 49);
+    padding: 30px;
+    border-radius: 50%;
+    text-align: center;
+    
+}
+
