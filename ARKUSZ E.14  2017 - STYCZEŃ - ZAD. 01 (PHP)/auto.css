@@ -1,0 +1,48 @@
+html, body {
+    margin: 0px;
+}
+
+.clr{
+    clear: both;
+    height: 0px;
+}
+
+.baner{
+    background: #44517D;
+    color: white;
+    font-size: 120%;
+    text-align: center;
+    height: 60px;
+}
+
+.lewy{
+    background: #61B2EC;
+    width: 40%;
+    height: 500px;
+    float: left;
+}
+
+.prawy{
+    background: #8eC9F2;
+    width: 60%;
+    height: 500px;
+    float: right;
+}
+
+.stopka{
+    background: #45517D;
+    color: white;
+    font-size: 150%;
+    text-align: center;
+}
+a{
+    color: orange;
+}
+
+a:visited{
+    color: green;
+}
+
+table{
+    width: 100%;
+}
